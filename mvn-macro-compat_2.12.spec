@@ -4,7 +4,7 @@
 #
 Name     : mvn-macro-compat_2.12
 Version  : 1.1.1
-Release  : 2
+Release  : 3
 URL      : https://github.com/milessabin/macro-compat/archive/v1.1.1.tar.gz
 Source0  : https://github.com/milessabin/macro-compat/archive/v1.1.1.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/macro-compat_2.12-1.1.1.jar
